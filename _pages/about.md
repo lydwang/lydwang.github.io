@@ -22,6 +22,21 @@ Job Market Paper
 
 •	Presentations: 2024 AAA/Deloitte Foundation/Michael J. Cook Doctoral Consortium, 2024 DFSI Conference, University of North Carolina Chapel Hill 2024, Stanford GSB 2024 and 2023 
 
+---
+title: "How do Data Affect Firms’ Innovation Strategies: Evidence from the General Data Protection Regulation"
+collection: publications
+<!--category: manuscripts-->
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'I examine how firms’ customer data availability influences their managers’ innovation resource allocation between exploitative (incremental) and exploratory (radical) innovation. I use the European Union (EU) General Data Protection Regulation (GDPR) as a plausibly exogenous shock to customer data availability in estimating a difference-in-differences specification. I employ a patent-based innovation output measure and develop and test a novel innovation input workforce-based measure. I find that, upon a negative shock to customer personal data availability, firms allocate more innovation resources to exploration relative to exploitation. The results are stronger for firms in B2C versus B2B industries and firms with more volatile customer demand. My results suggest that higher customer data availability leads firms to focus more on exploitative innovation, deterring the exploratory innovation crucial to economic growth.'
+<!--date: 2015-10-01-->
+<!--venue: 'Journal 1'-->
+<!--slidesurl: 'http://academicpages.github.io/files/slides3.pdf'-->
+paperurl: 'http://lydwang.github.io/files/paper3.pdf'
+<!--citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'-->
+---
+
+I examine how firms’ customer data availability influences their managers’ innovation resource allocation between exploitative (incremental) and exploratory (radical) innovation. I use the European Union (EU) General Data Protection Regulation (GDPR) as a plausibly exogenous shock to customer data availability in estimating a difference-in-differences specification. I employ a patent-based innovation output measure and develop and test a novel innovation input workforce-based measure. I find that, upon a negative shock to customer personal data availability, firms allocate more innovation resources to exploration relative to exploitation. The results are stronger for firms in B2C versus B2B industries and firms with more volatile customer demand. My results suggest that higher customer data availability leads firms to focus more on exploitative innovation, deterring the exploratory innovation crucial to economic growth.![image](https://github.com/user-attachments/assets/2a8950de-73b8-4fd3-83c6-23d00804388e)
+
 
 
 
