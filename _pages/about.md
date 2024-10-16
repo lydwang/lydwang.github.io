@@ -39,6 +39,7 @@ I examine how firms’ customer data availability influences their managers’ i
 
 
 
+![Editing a markdown file for a talk](/files/Lydia Wang CV 20241015.pdf)
 
 Other Working Papers
 ======
