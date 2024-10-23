@@ -20,8 +20,8 @@ Job Market Paper
 
 *	_Solo-authored (Job Market Paper)_
 *	Presentations:
-    + 2024 AAA/Deloitte Foundation/Michael J. Cook Doctoral Consortium
-    + 2024 DFSI Conference
+    + AAA/Deloitte Foundation/Michael J. Cook Doctoral Consortium 2024
+    + DFSI Conference 2024
     + Stanford GSB Accounting 2024, 2023
     + Stanford GSB Finance Reading Group 2024
     + University of North Carolina Chapel Hill 2024
