@@ -6,19 +6,19 @@
 
 main:
   - title: "CV"
-    url: /files/Lydia Wang CV 20241015.pdf
+    url: /files/Lydia Wang CV 20241017.pdf
     
   #- title: "Research"
   #  url: /publications/
 
   - title: "Job Market Paper"
-    url: /files/Lydia Wang CV 20241015.pdf    
+    url: /files/Lydia_Wang_Job_Market_Paper_20241022.pdf    
 
   - title: "Kasznik, Spector, Wang (2024)"
     url: /files/KSW August 5 2024.pdf     
     
   - title: "Gipper, Kim, Wang (2024)"
-    url: /files/GKW_draft_10152024_Lydiapacketversion.pdf 
+    url: /files/GKW_draft_10152024_Lydia_Wang.pdf 
         
   #- title: "Blog Posts"
   #  url: /year-archive/
