@@ -36,7 +36,7 @@ Other Working Papers
 *	_Co-authored with Ron Kasznik and Ido Spector_
 *	Revise and resubmit at _**Journal of Accounting and Economics**_
 *	Presentations:
-    + Stanford GSB (Wang)
+    + Stanford GSB (Wang) 2024
 
 
 **“Financial and Non-Financial Management Guidance”**
