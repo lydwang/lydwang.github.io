@@ -20,11 +20,11 @@ Job Market Paper
 
 *	_Solo-authored (Job Market Paper)_
 *	Presentations:
-  + 2024 AAA/Deloitte Foundation/Michael J. Cook Doctoral Consortium
-  + 2024 DFSI Conference
-  + Stanford GSB Accounting 2024, 2023
-  + Stanford GSB Finance Reading Group 2024
-  + University of North Carolina Chapel Hill 2024
+    + 2024 AAA/Deloitte Foundation/Michael J. Cook Doctoral Consortium
+    + 2024 DFSI Conference
+    + Stanford GSB Accounting 2024, 2023
+    + Stanford GSB Finance Reading Group 2024
+    + University of North Carolina Chapel Hill 2024
 
 
 
@@ -36,7 +36,7 @@ Other Working Papers
 *	_Co-authored with Ron Kasznik and Ido Spector_
 *	Revise and resubmit at _**Journal of Accounting and Economics**_
 *	Presentations:
-  + Stanford GSB (Wang)
+    + Stanford GSB (Wang)
 
 
 **“Financial and Non-Financial Management Guidance”**
