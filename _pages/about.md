@@ -39,7 +39,7 @@ Other Working Papers
     + Stanford GSB (Wang) 2024
 
 
-**“Financial and Non-Financial Management Guidance”**
+**“Financial and Non-financial Management Guidance”**
 *	_Co-authored with Brandon Gipper and Shawn Kim_
 *	Status: Early draft written, refining writing and analysis, seeking feedback
 
