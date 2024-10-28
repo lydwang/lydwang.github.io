@@ -16,7 +16,7 @@ Prior to my Ph.D. at Stanford, I received an A.B. in Applied Mathematics with a 
 
 Job Market Paper
 ======
-**"How do Data Affect Firms’ Innovation Strategies: Evidence from the General Data Protection Regulation”**
+**"How Do Data Affect Firms’ Innovation Strategies: Evidence From the General Data Protection Regulation”**
 
 *	_Solo-authored (Job Market Paper)_
 *	Presentations:
