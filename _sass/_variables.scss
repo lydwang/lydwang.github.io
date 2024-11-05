@@ -14,12 +14,12 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Century Gothic", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : "Century Gothic", Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 $centurygothic              : "Century Gothic";
 
 /* serif typefaces */
@@ -29,8 +29,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $centurygothic;
-$header-font-family         : $centurygothic;
+$global-font-family         : $monospace;
+$header-font-family         : $monospace;
 $caption-font-family        : $serif;
 
 /* type scale */
