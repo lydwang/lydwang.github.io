@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year Ph.D. Candidate in Accounting at the Stanford Graduate School of Business. I am currently on the job market.
-
-I am interested in the economics of accounting and other information in the digital economy. In particular, I am interested in how unique features of the digital economy challenge or complement existing theories and evidence regarding strategic decision making, such as in the areas of M&A, executive compensation, and non-financial information.
+I am a 5th year Ph.D. Candidate in Accounting at the Stanford Graduate School of Business.
 
 Prior to my Ph.D. at Stanford, I received an A.B. in Applied Mathematics with a focus in Economics from Harvard College. I was born in California and grew up in Michigan.
 
 
-Job Market Paper
+Working Papers
 ======
 **"How Do Data Affect Firms’ Innovation Strategies: Evidence From the General Data Protection Regulation”**
 
-*	_Solo-authored (Job Market Paper)_
+*	_Solo-authored_
 *	Presentations:
     + AAA/Deloitte Foundation/Michael J. Cook Doctoral Consortium 2024
     + DFSI Conference 2024
@@ -27,10 +25,6 @@ Job Market Paper
     + University of North Carolina Chapel Hill 2024
 
 
-
-
-Other Working Papers
-======
 **“Deal or No Deal: CEOs, M&A, and the Culture of Honor in the U.S. South”**
 
 *	_Co-authored with Ron Kasznik and Ido Spector_
