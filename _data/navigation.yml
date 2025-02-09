@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "CV"
-    url: /files/Lydia Wang CV 20241108.pdf
+  #- title: "CV"
+  #  url: /files/Lydia Wang CV 20241108.pdf
     
   #- title: "Research"
   #  url: /publications/
 
-  - title: "Job Market Paper"
+  - title: "Wang (2024)"
     url: /files/Lydia_Wang_Job_Market_Paper_20241111.pdf    
 
   - title: "Kasznik, Spector, Wang (2024)"
