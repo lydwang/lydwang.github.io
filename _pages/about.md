@@ -9,7 +9,9 @@ redirect_from:
 
 I am a 5th year Ph.D. Candidate in Accounting at the Stanford Graduate School of Business.
 
-Prior to my Ph.D. at Stanford, I received an A.B. in Applied Mathematics with a focus in Economics from Harvard College. I was born in California and grew up in Michigan.
+Prior to my Ph.D. at Stanford, I received an A.B. in Applied Mathematics with a focus in Economics from Harvard College. 
+
+I was born in California and grew up in Michigan!
 
 
 Working Papers
